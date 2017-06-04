@@ -1,0 +1,8 @@
+
+.productList tr,td{
+    border:1pt solid rgba(129, 129, 129, 0.79)
+}
+
+input:disabled{
+    color: black !important;
+}
